@@ -1,2 +1,4 @@
 # github-workshop-demo
-a dummy repository to demo github features for the datathon workshop
+a demo repository to demo github features for the datathon workshop
+
+Rohil made a change
